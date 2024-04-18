@@ -1,0 +1,5 @@
+# ninja log v5
+17	1638	1712339385162208399	CMakeFiles/FinalCompiler.dir/main.cpp.o	4bfacfef2cc55f76
+2	1776	1712339320592179277	CMakeFiles/FinalCompiler.dir/LexAnalyzer.cpp.o	8f40a857480c85b8
+78	10011	1712458249555473470	CMakeFiles/FinalCompiler.dir/SyntaxAnalyzer.cpp.o	a9b8168640df7cbb
+10012	14351	1712458253907399398	FinalCompiler	fff6f8f892daf549
